@@ -1,0 +1,100 @@
+#background {
+	text-align: center;
+	width: 1000px;
+	height: 400px;
+	background-image: url("Background.jpg");
+	padding-top: 0px;
+	padding-bottom:175px;
+	padding-left: 20px;
+	padding-right: 40px;
+	}
+	
+/* This defines how the header will look like*/
+
+#topHead {
+	width: 1000px;
+	height: 400px;
+    background-color:#538da5;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:20px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+/* This is my navigation bar defined */
+
+#navigationbar {
+	text-align:center;
+	line-height:30px;
+	background-color:#99C1FF;
+	height:400px;
+	width:200px;
+	float:right;
+	padding:0px;      
+}
+
+/* This is my middle box defined */
+
+#middleBox {
+	text-align:center;
+	line-height:30px;
+	background-color:#b779e1;
+	height:400px;
+	width:400px;
+	float:right;
+	padding:0px;
+	}
+
+/* This is my 1st box defined */
+
+#firstBox {
+	text-align:center;
+    line-height:30px;
+    background-color:#c5ba6b;
+    height:400px;
+    width:400px;
+    float:left;
+    padding:0px;	
+	}	
+
+/* This is the footer defined */
+
+#section3 {
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:0px;	 	 
+}
+
+
+/* This is the audio player defined */
+
+#player {
+width: 100%;
+}
+
+/* Unvisited link */
+a:link {
+    color: #BF00FF;
+}
+
+/* Visited link */
+a:visited {
+    color: #4046ED;
+}
+
+/* Mouse over link */
+a:hover {
+    color: #00DE85;
+}
+
+/* Selected link */
+a:active {
+    color: #8F0085;
+}
+
+#image {
+width:1020px;
+height:80px;
+}
